@@ -1,0 +1,13 @@
+name: Pepsimulator
+title: Pepsimulator
+username:
+account: omdmarketingsciences
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 378448
+bundleId: 1475335
+url: https://omdmarketingsciences.shinyapps.io/Pepsimulator/
+when: 1531323020.28353
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Thumbs.db|www/Thumbs.db
